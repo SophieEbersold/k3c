@@ -1,0 +1,38 @@
+# k3c
+k3c case study requirements in Form-L 
+= k3C Case study in Form-L
+:favicon: images/cocovad-logo.png
+:version: 1.0
+// icons for GitHub
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+//-------------------------------------
+
+:cocovad: https://github.com/CoCoVaD/website[CoCoVaD chair]
+:cfp: https://www.sosym.org/theme_sections/cfp/cfp-SoSyM-TS-Requirements-Formalisation-2023.pdf
+
+//------------------------------------ Badges --------
+:baseURL: https://github.com/CoCoVaD/k3c
+//image:{baseURL}/actions/workflows/main.yml/badge.svg[Deployed] 
+image:https://img.shields.io/github/license/:user/:repo[GitHub]
+//------------------------------------ Badges --------
+
+This repo is dedicated to the k3c case study requirements in Form-L.
+It collects the available material for repeatability and reproducibility.
+
+== Context
+
+This case study is part of a link:{cfp}[SoSyM Theme Section] on "Requirements Formalisation: From Text to Model-based."
+
+== Available Material
+
+NOTE: This material is available in the `src` forlder of this repo.
+
+- link:src/k3 initial requirements.docx[The initial text (`.docx`)]
+- link:src/k3classes.docx[The Data Model in Form-L (`.docx`)]
+- link:src/k3requirements.docx[The Requirements in Form-L (`.docx`)]
