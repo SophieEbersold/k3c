@@ -19,7 +19,7 @@ endif::[]
 //------------------------------------ Badges --------
 :baseURL: https://github.com/CoCoVaD/k3c
 //image:{baseURL}/actions/workflows/main.yml/badge.svg[Deployed] 
-image:https://img.shields.io/github/license/:cocovad/:{baseURL}[GitHub]
+image:https://img.shields.io/github/license/:jmbruel/:https://github.com/CoCoVaD/k3c[GitHub]
 //------------------------------------ Badges --------
 
 This repo is dedicated to the k3c case study requirements in Form-L.
