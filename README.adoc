@@ -19,7 +19,7 @@ endif::[]
 //------------------------------------ Badges --------
 :baseURL: https://github.com/CoCoVaD/k3c
 //image:{baseURL}/actions/workflows/main.yml/badge.svg[Deployed] 
-image:https://img.shields.io/github/license/:user/:repo[GitHub]
+image:https://img.shields.io/github/license/:cocovad/:{baseURL}[GitHub]
 //------------------------------------ Badges --------
 
 This repo is dedicated to the k3c case study requirements in Form-L.
@@ -35,4 +35,4 @@ NOTE: This material is available in the `src` folder of this repo.
 
 - The initial text (link:src/k3_initial_requirements.docx[.docx])
 - The Data Model in Form-L (link:src/k3classes.docx[.docx])
-- The Requirements in Form-L link:src/k3requirements.docx[[.docx])
+- The Requirements in Form-L (link:src/k3requirements.docx[.docx])
