@@ -31,8 +31,8 @@ This case study is part of a link:{cfp}[SoSyM Theme Section] on "Requirements Fo
 
 == Available Material
 
-NOTE: This material is available in the `src` forlder of this repo.
+NOTE: This material is available in the `src` folder of this repo.
 
-- link:src/k3 initial requirements.docx[The initial text (`.docx`)]
-- link:src/k3classes.docx[The Data Model in Form-L (`.docx`)]
-- link:src/k3requirements.docx[The Requirements in Form-L (`.docx`)]
+- The initial text (link:src/k3_initial_requirements.docx[.docx])
+- The Data Model in Form-L (link:src/k3classes.docx[.docx])
+- The Requirements in Form-L link:src/k3requirements.docx[[.docx])
